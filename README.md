@@ -1,5 +1,5 @@
 
-Exp 5 Experimental verification of frequency response of Digital fiber optic link
+# Exp 5 Experimental verification of frequency response of Digital fiber optic link
 # Digital Fiber Optic Link Analysis (600nm)
 
 ## AIM
@@ -69,25 +69,26 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 
 ## BLOCK DIAGRAM
 
-*(Insert block diagram here)*
+<img width="376" height="273" alt="image" src="https://github.com/user-attachments/assets/bf300b0a-a0a7-4465-9b9d-9585c0c29362" />
 
 ---
 
 ## TABULATION  
 **Transmission through Digital Link**
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+<img width="1516" height="1202" alt="image" src="https://github.com/user-attachments/assets/77b940c7-0cf9-4e05-a50e-f8f0517e9088" />
 
 ---
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
+<img width="1041" height="520" alt="image" src="https://github.com/user-attachments/assets/f7740597-382b-4804-910f-482b9882ebde" />
 
 ---
+## GRAPH
+<img width="1600" height="1292" alt="image" src="https://github.com/user-attachments/assets/698052d9-cc23-4a15-96a0-ac315b954a98" />
+
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+The digital fiber optic link successfully transmits signals up to a certain frequency limit, beyond which signal distortion occurs, indicating the bandwidth limitation of the system.
